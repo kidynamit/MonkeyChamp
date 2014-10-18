@@ -3,7 +3,7 @@ LICENSE
 
 ## Source code and sounds
 
-The provided source code and the sounds, except the music, are licensed under the [MIT License][http://opensource.org/licenses/MIT)
+The provided source code and the sounds, except the music, are licensed under the [MIT License][http://opensource.org/licenses/MIT]
 
 The MIT License (MIT)
 
