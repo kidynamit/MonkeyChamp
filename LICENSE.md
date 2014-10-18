@@ -3,7 +3,7 @@ LICENSE
 
 ## Source code and sounds
 
-The provided source code and the sounds, except the music, are licensed under the [MIT License][http://opensource.org/licenses/MIT]
+The provided source code and the sounds, except the music, are licensed under the [MIT License](http://opensource.org/licenses/MIT)
 
 The MIT License (MIT)
 
@@ -29,7 +29,7 @@ THE SOFTWARE.
 
 ## Images, sprites, graphical assets
 
-All images are licensed [CC-BY-NC](http://creativecommons.org/licenses/by-nc/2.0/). They are from the game The Great Paper Adventure and have been by [Thibault Person](http://twitter.com/mrlapinou).
+All images are licensed [CC-BY-NC](http://creativecommons.org/licenses/by-nc/2.0/). 
 
 You are free:
 
@@ -50,7 +50,3 @@ With the understanding that:
    - Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
    - The author's moral rights;
    - Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
-   
-## Music
-
-Firecracker, a song of Spintronic (Cyril Brouillard) under CC-BY-NC license). See [http://spintronic.fr][http://spintronic.fr] for more information and more songs.
